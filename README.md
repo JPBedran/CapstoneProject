@@ -27,6 +27,7 @@ Within this part, a third dataset is provided with data from potential target cu
 
 3. Kaggle Competition
 Once the best model is chosen, predictions will be run on Udacity_MAILOUT_052018_TEST.csv and be submitted for the Kaggle Competition. 
+Current: 19gth Place - 0.80370
 
 ### Data
 **Udacity_AZDIAS_052018.csv**: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
